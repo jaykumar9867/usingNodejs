@@ -1,6 +1,4 @@
-# usingNodejs
-Project :-  Store data in MongoDB. Retrieve it using Nodejs
-     
+# Project :-  Store data in MongoDB. Retrieve it using Nodejs
 
 # Step 1:-
   - Extract the file
